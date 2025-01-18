@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+numpy_financial
+plotly.express
+openpyxl
+xlsxwriter
+matplotlib.pyplot
